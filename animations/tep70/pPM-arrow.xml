@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+	<AnalogRotation>
+		<SignalID>23</SignalID>
+		<MinAngle>0.0</MinAngle>
+		<MaxAngle>269</MaxAngle>
+		<InitAngle>0</InitAngle>
+		<Duration>1000.0</Duration>
+		<Precision>0.01</Precision>
+		<Axis>0.0 0.9417 -0.3364</Axis>
+	</AnalogRotation>
+</Config>
