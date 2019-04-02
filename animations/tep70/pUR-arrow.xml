@@ -3,7 +3,7 @@
 	<AnalogRotation>
 		<SignalID>22</SignalID>
 		<MinAngle>0.0</MinAngle>
-		<MaxAngle>273</MaxAngle>
+		<MaxAngle>278</MaxAngle>
 		<InitAngle>0</InitAngle>
 		<Duration>1000.0</Duration>
 		<Precision>0.01</Precision>

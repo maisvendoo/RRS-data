@@ -8,7 +8,7 @@
 		<MaxVolume>100</MaxVolume>
 		<InitPitch>1.0</InitPitch>
 		<Loop>1</Loop>
-		<PlayOnStart>1</PlayOnStart>
+		<PlayOnStart>0</PlayOnStart>
 	</Sound>
 
 	<Sound>
