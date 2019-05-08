@@ -30,6 +30,18 @@
 		<Loop>1</Loop>
 		<PlayOnStart>1</PlayOnStart>
 	</Sound>
+
+
+	<Sound>
+		<Name>EPK</Name>
+		<Path>epk.wav</Path>
+		<InitVolume>0</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>1</Loop>
+		<PlayOnStart>1</PlayOnStart>
+	</Sound>
+
 <!--
 	<Sound>
 		<Name>AirInput</Name>
