@@ -9,4 +9,41 @@
 		<Precision>0.01</Precision>
 		<Axis>0.0 0.0 1.0</Axis>
 	</AnalogRotation>
+
+
+	<KeyPoint>
+		<Param>0.0</Param>
+		<Value>0.0</Value>
+	</KeyPoint>
+
+	<KeyPoint>
+		<Param>0.167</Param>
+		<Value>35.0</Value>
+	</KeyPoint>
+
+	<KeyPoint>
+		<Param>0.333</Param>
+		<Value>52.0</Value>
+	</KeyPoint>
+
+	<KeyPoint>
+		<Param>0.5</Param>
+		<Value>59.0</Value>
+	</KeyPoint>
+
+	<KeyPoint>
+		<Param>0.667</Param>
+		<Value>63.0</Value>
+	</KeyPoint>
+
+	<KeyPoint>
+		<Param>0.833</Param>
+		<Value>80.0</Value>
+	</KeyPoint>
+
+	<KeyPoint>
+		<Param>1.0</Param>
+		<Value>115.0</Value>
+	</KeyPoint>
+
 </Config>
