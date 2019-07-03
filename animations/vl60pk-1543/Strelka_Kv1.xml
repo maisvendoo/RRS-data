@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Config>
 	<AnalogRotation>
-		<SignalID>98</SignalID>
+		<SignalID>99</SignalID>
 		<MinAngle>0.0</MinAngle>
 		<MaxAngle>271</MaxAngle>
 		<InitAngle>0.0</InitAngle>
