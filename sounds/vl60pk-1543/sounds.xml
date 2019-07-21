@@ -161,4 +161,38 @@
 		<PlayOnStart>1</PlayOnStart>
 	</Sound>
 
+	<!-- Щелчек рукоятки крана 395 -->
+	<Sound>
+		<Name>Kran_395_ruk</Name>
+		<Path>395-chelk.wav</Path>
+		<InitVolume>100</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>0</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<!-- Щелчек комбинированного крана -->
+	<Sound>
+		<Name>Komb_kran</Name>
+		<Path>komb-kran.wav</Path>
+		<InitVolume>100</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>0</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<!-- Щелчек комбинированного крана -->
+	<Sound>
+		<Name>UBT_367_ruk</Name>
+		<Path>ubt-367-ruk.wav</Path>
+		<InitVolume>100</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>0</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+
 </Config>
