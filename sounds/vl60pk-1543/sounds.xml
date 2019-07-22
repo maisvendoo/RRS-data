@@ -2,15 +2,53 @@
 <Config>
 	
 	<!-- Озвучка тумблеров с фиксацией -->
+
+	<!-- Включение -->
 	<Sound>
-		<Name>Tumbler</Name>
-		<Path>tumbler.wav</Path>
+		<Name>K_Tumbler_On</Name>
+		<Path>k-tumbler-on.wav</Path>
 		<InitVolume>100</InitVolume>
 		<MaxVolume>100</MaxVolume>
 		<InitPitch>1.0</InitPitch>
 		<Loop>0</Loop>
 		<PlayOnStart>0</PlayOnStart>
 	</Sound>
+
+	<!-- Выключение -->
+	<Sound>
+		<Name>K_Tumbler_Off</Name>
+		<Path>k-tumbler-off.wav</Path>
+		<InitVolume>100</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>0</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<!-- Озвучка тумблеров с фиксацией -->
+
+	<!-- Включение -->
+	<Sound>
+		<Name>K_Tumbler_Nofixed_On</Name>
+		<Path>k-tumbler-nofixed-on.wav</Path>
+		<InitVolume>100</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>0</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<!-- Выключение -->
+	<Sound>
+		<Name>K_Tumbler_Nofixed_Off</Name>
+		<Path>k-tumbler-nofixed-off.wav</Path>
+		<InitVolume>100</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>0</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
 
 	<!-- Включение ГВ -->
 	<Sound>
@@ -67,7 +105,7 @@
 		<MaxVolume>10</MaxVolume>
 		<InitPitch>1.0</InitPitch>
 		<Loop>1</Loop>
-		<PlayOnStart>1</PlayOnStart>
+		<PlayOnStart>0</PlayOnStart>
 	</Sound>
 
 	<!-- Работа расщепителя фаз  -->
@@ -78,7 +116,7 @@
 		<MaxVolume>40</MaxVolume>
 		<InitPitch>0.0</InitPitch>
 		<Loop>1</Loop>
-		<PlayOnStart>1</PlayOnStart>
+		<PlayOnStart>0</PlayOnStart>
 	</Sound>
 
 	<!-- Звуки работы мотор-вертиляторов -->
@@ -87,22 +125,22 @@
 	<Sound>
 		<Name>Motor_Fan1</Name>
 		<Path>vent.wav</Path>
-		<InitVolume>20</InitVolume>
-		<MaxVolume>20</MaxVolume>
+		<InitVolume>50</InitVolume>
+		<MaxVolume>50</MaxVolume>
 		<InitPitch>0.0</InitPitch>
 		<Loop>1</Loop>
-		<PlayOnStart>1</PlayOnStart>
+		<PlayOnStart>0</PlayOnStart>
 	</Sound>
 
 	<!-- МВ2 -->
 	<Sound>
 		<Name>Motor_Fan2</Name>
 		<Path>vent.wav</Path>
-		<InitVolume>20</InitVolume>
-		<MaxVolume>20</MaxVolume>
+		<InitVolume>50</InitVolume>
+		<MaxVolume>50</MaxVolume>
 		<InitPitch>0.0</InitPitch>
 		<Loop>1</Loop>
-		<PlayOnStart>1</PlayOnStart>
+		<PlayOnStart>0</PlayOnStart>
 	</Sound>		
 
 
@@ -110,44 +148,44 @@
 	<Sound>
 		<Name>Motor_Fan3</Name>
 		<Path>vent.wav</Path>
-		<InitVolume>20</InitVolume>
-		<MaxVolume>20</MaxVolume>
+		<InitVolume>50</InitVolume>
+		<MaxVolume>50</MaxVolume>
 		<InitPitch>0.0</InitPitch>
 		<Loop>1</Loop>
-		<PlayOnStart>1</PlayOnStart>
+		<PlayOnStart>0</PlayOnStart>
 	</Sound>
 
 	<!-- МВ4 -->
 	<Sound>
 		<Name>Motor_Fan4</Name>
 		<Path>vent.wav</Path>
-		<InitVolume>20</InitVolume>
-		<MaxVolume>20</MaxVolume>
+		<InitVolume>50</InitVolume>
+		<MaxVolume>50</MaxVolume>
 		<InitPitch>0.0</InitPitch>
 		<Loop>1</Loop>
-		<PlayOnStart>1</PlayOnStart>
+		<PlayOnStart>0</PlayOnStart>
 	</Sound>
 
 	<!-- МВ5 -->
 	<Sound>
 		<Name>Motor_Fan5</Name>
 		<Path>vent.wav</Path>
-		<InitVolume>20</InitVolume>
-		<MaxVolume>20</MaxVolume>
+		<InitVolume>50</InitVolume>
+		<MaxVolume>50</MaxVolume>
 		<InitPitch>0.0</InitPitch>
 		<Loop>1</Loop>
-		<PlayOnStart>1</PlayOnStart>
+		<PlayOnStart>0</PlayOnStart>
 	</Sound>
 
 	<!-- МВ6 -->
 	<Sound>
 		<Name>Motor_Fan6</Name>
 		<Path>vent.wav</Path>
-		<InitVolume>20</InitVolume>
-		<MaxVolume>20</MaxVolume>
+		<InitVolume>50</InitVolume>
+		<MaxVolume>50</MaxVolume>
 		<InitPitch>0.0</InitPitch>
 		<Loop>1</Loop>
-		<PlayOnStart>1</PlayOnStart>
+		<PlayOnStart>0</PlayOnStart>
 	</Sound>
 
 	<!-- Звуки работы мотор-компрессора -->	
@@ -158,7 +196,7 @@
 		<MaxVolume>50</MaxVolume>
 		<InitPitch>0.0</InitPitch>
 		<Loop>1</Loop>
-		<PlayOnStart>1</PlayOnStart>
+		<PlayOnStart>0</PlayOnStart>
 	</Sound>
 
 	<!-- Щелчек рукоятки крана 395 -->
