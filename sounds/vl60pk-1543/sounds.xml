@@ -253,6 +253,19 @@
 		<InitPitch>1.0</InitPitch>
 		<Loop>0</Loop>
 		<PlayOnStart>0</PlayOnStart>
-	</Sound>	
+	</Sound>
+
+
+	<!-- Скоростемер -->
+	<Sound>
+		<Name>Skorostemer</Name>
+		<Path>skorostemer.wav</Path>
+		<InitVolume>0</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>1</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
 
 </Config>
