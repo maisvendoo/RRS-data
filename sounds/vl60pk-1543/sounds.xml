@@ -247,7 +247,7 @@
 	<!-- Тяговый двигатель -->
 	<Sound>
 		<Name>TED</Name>
-		<Path>VL60-ted.wav</Path>
+		<Path>ted_60-62.wav</Path>
 		<InitVolume>100</InitVolume>
 		<MaxVolume>100</MaxVolume>
 		<InitPitch>1.0</InitPitch>
