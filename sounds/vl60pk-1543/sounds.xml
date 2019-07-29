@@ -267,5 +267,26 @@
 		<PlayOnStart>0</PlayOnStart>
 	</Sound>
 
+	<!-- Свисток -->
+	<Sound>
+		<Name>Svistok</Name>
+		<Path>VL60-svistok.wav</Path>
+		<InitVolume>0</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>1</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<!-- Свисток -->
+	<Sound>
+		<Name>Tifon</Name>
+		<Path>VL60-tifon.wav</Path>
+		<InitVolume>0</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>1</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
 
 </Config>
