@@ -8,7 +8,7 @@ osg::Group {
   Children 5 {
     osg::MatrixTransform {
       UniqueID 0
-      Name "Wheel-1"
+      Name "Wheel-4"
       Children 1 {
         osg::Geode {
           UniqueID 24
@@ -16,7 +16,7 @@ osg::Group {
           Drawables 1 {
             osg::Geometry {
               UniqueID 2
-              Name "Wheel-1"
+              Name "Wheel-4"
               StateSet TRUE {
                 osg::StateSet {
                   UniqueID 3
@@ -2717,7 +2717,7 @@ osg::Group {
     }
     osg::MatrixTransform {
       UniqueID 29
-      Name "Wheel-4"
+      Name "Wheel-2"
       Children 1 {
         osg::Geode {
           UniqueID 32
@@ -2725,7 +2725,7 @@ osg::Group {
           Drawables 1 {
             osg::Geometry {
               UniqueID 31
-              Name "Wheel-4"
+              Name "Wheel-2"
               StateSet TRUE {
                 osg::StateSet {
                   UniqueID 3
@@ -4005,7 +4005,7 @@ osg::Group {
     }
     osg::MatrixTransform {
       UniqueID 33
-      Name "Wheel-2"
+      Name "Wheel-1"
       Children 1 {
         osg::Geode {
           UniqueID 36
@@ -4013,7 +4013,7 @@ osg::Group {
           Drawables 1 {
             osg::Geometry {
               UniqueID 35
-              Name "Wheel-2"
+              Name "Wheel-1"
               StateSet TRUE {
                 osg::StateSet {
                   UniqueID 3
