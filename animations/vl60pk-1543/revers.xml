@@ -9,32 +9,32 @@
 
 	<KeyPoint>
 		<Param>-1.0</Param>
-		<Value>-37.5</Value>
+		<Value>-120.5</Value>
 	</KeyPoint>
 
 	<KeyPoint>
 		<Param>0.0</Param>
-		<Value>0.0</Value>
+		<Value>-15.0</Value>
 	</KeyPoint>
 
 	<KeyPoint>
 		<Param>0.25</Param>
-		<Value>18.75</Value>
+		<Value>10.00</Value>
 	</KeyPoint>
 
 	<KeyPoint>
 		<Param>0.5</Param>
-		<Value>37.75</Value>
+		<Value>32.5</Value>
 	</KeyPoint>
 
 	<KeyPoint>
 		<Param>0.75</Param>
-		<Value>56.25</Value>
+		<Value>47.2</Value>
 	</KeyPoint>
 
 	<KeyPoint>
 		<Param>1.0</Param>
-		<Value>75.0</Value>
+		<Value>64.2</Value>
 	</KeyPoint>
 
 </Config>
