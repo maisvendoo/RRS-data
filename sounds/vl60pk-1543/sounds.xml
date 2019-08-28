@@ -112,8 +112,8 @@
 	<Sound>
 		<Name>Phase_Splitter</Name>
 		<Path>fasan.wav</Path>
-		<InitVolume>40</InitVolume>
-		<MaxVolume>40</MaxVolume>
+		<InitVolume>30</InitVolume>
+		<MaxVolume>30</MaxVolume>
 		<InitPitch>0.0</InitPitch>
 		<Loop>1</Loop>
 		<PlayOnStart>0</PlayOnStart>
@@ -125,8 +125,8 @@
 	<Sound>
 		<Name>Motor_Fan1</Name>
 		<Path>vent.wav</Path>
-		<InitVolume>50</InitVolume>
-		<MaxVolume>50</MaxVolume>
+		<InitVolume>15</InitVolume>
+		<MaxVolume>15</MaxVolume>
 		<InitPitch>0.0</InitPitch>
 		<Loop>1</Loop>
 		<PlayOnStart>0</PlayOnStart>
@@ -136,8 +136,8 @@
 	<Sound>
 		<Name>Motor_Fan2</Name>
 		<Path>vent.wav</Path>
-		<InitVolume>50</InitVolume>
-		<MaxVolume>50</MaxVolume>
+		<InitVolume>20</InitVolume>
+		<MaxVolume>20</MaxVolume>
 		<InitPitch>0.0</InitPitch>
 		<Loop>1</Loop>
 		<PlayOnStart>0</PlayOnStart>
@@ -148,8 +148,8 @@
 	<Sound>
 		<Name>Motor_Fan3</Name>
 		<Path>vent.wav</Path>
-		<InitVolume>50</InitVolume>
-		<MaxVolume>50</MaxVolume>
+		<InitVolume>40</InitVolume>
+		<MaxVolume>40</MaxVolume>
 		<InitPitch>0.0</InitPitch>
 		<Loop>1</Loop>
 		<PlayOnStart>0</PlayOnStart>
@@ -170,8 +170,8 @@
 	<Sound>
 		<Name>Motor_Fan5</Name>
 		<Path>vent.wav</Path>
-		<InitVolume>50</InitVolume>
-		<MaxVolume>50</MaxVolume>
+		<InitVolume>70</InitVolume>
+		<MaxVolume>70</MaxVolume>
 		<InitPitch>0.0</InitPitch>
 		<Loop>1</Loop>
 		<PlayOnStart>0</PlayOnStart>
@@ -181,8 +181,8 @@
 	<Sound>
 		<Name>Motor_Fan6</Name>
 		<Path>vent.wav</Path>
-		<InitVolume>50</InitVolume>
-		<MaxVolume>50</MaxVolume>
+		<InitVolume>80</InitVolume>
+		<MaxVolume>80</MaxVolume>
 		<InitPitch>0.0</InitPitch>
 		<Loop>1</Loop>
 		<PlayOnStart>0</PlayOnStart>
@@ -237,8 +237,8 @@
 	<Sound>
 		<Name>EKG_serv</Name>
 		<Path>serv.wav</Path>
-		<InitVolume>100</InitVolume>
-		<MaxVolume>100</MaxVolume>
+		<InitVolume>30</InitVolume>
+		<MaxVolume>30</MaxVolume>
 		<InitPitch>1.0</InitPitch>
 		<Loop>0</Loop>
 		<PlayOnStart>0</PlayOnStart>
