@@ -76,7 +76,7 @@
 	<!-- Подъем токоприемника -->
 	<Sound>
 		<Name>Pantograph_Up</Name>
-		<Path>pantoup.wav</Path>
+		<Path>TPUp.wav</Path>
 		<InitVolume>100</InitVolume>
 		<MaxVolume>100</MaxVolume>
 		<InitPitch>1.0</InitPitch>
@@ -88,7 +88,7 @@
 	<!-- Опускание токоприемника -->
 	<Sound>
 		<Name>Pantograph_Down</Name>
-		<Path>pantodown.wav</Path>
+		<Path>TPDown.wav</Path>
 		<InitVolume>100</InitVolume>
 		<MaxVolume>100</MaxVolume>
 		<InitPitch>1.0</InitPitch>
