@@ -8,28 +8,28 @@
 
 	<KeyPoint>
 		<Param>-1</Param>
-		<Value>-8</Value>
+		<Value>-33.0</Value>
 	</KeyPoint>
 
 	<KeyPoint>
 		<Param>-0.5</Param>
-		<Value>0.0</Value>
+		<Value>-22.0</Value>
 	</KeyPoint>
 
 	<KeyPoint>
 		<Param>0.0</Param>
-		<Value>16</Value>
+		<Value>0.0</Value>
 	</KeyPoint>
 
 
 	<KeyPoint>
 		<Param>0.5</Param>
-		<Value>30</Value>
+		<Value>22</Value>
 	</KeyPoint>
 
 	<KeyPoint>
 		<Param>1.0</Param>
-		<Value>41.0</Value>
+		<Value>33.0</Value>
 	</KeyPoint>	
 
 </Config>
