@@ -121,72 +121,17 @@
 
 	<!-- Звуки работы мотор-вертиляторов -->
 	
-	<!-- МВ1 -->
+	<!-- МВ охлаждения ПТР -->
 	<Sound>
-		<Name>Motor_Fan1</Name>
+		<Name>PTR_fan</Name>
 		<Path>vent.wav</Path>
-		<InitVolume>15</InitVolume>
-		<MaxVolume>15</MaxVolume>
+		<InitVolume>100</InitVolume>
+		<MaxVolume>100</MaxVolume>
 		<InitPitch>0.0</InitPitch>
 		<Loop>1</Loop>
 		<PlayOnStart>0</PlayOnStart>
 	</Sound>
-
-	<!-- МВ2 -->
-	<Sound>
-		<Name>Motor_Fan2</Name>
-		<Path>vent.wav</Path>
-		<InitVolume>20</InitVolume>
-		<MaxVolume>20</MaxVolume>
-		<InitPitch>0.0</InitPitch>
-		<Loop>1</Loop>
-		<PlayOnStart>0</PlayOnStart>
-	</Sound>		
-
-
-	<!-- МВ3 -->
-	<Sound>
-		<Name>Motor_Fan3</Name>
-		<Path>vent.wav</Path>
-		<InitVolume>40</InitVolume>
-		<MaxVolume>40</MaxVolume>
-		<InitPitch>0.0</InitPitch>
-		<Loop>1</Loop>
-		<PlayOnStart>0</PlayOnStart>
-	</Sound>
-
-	<!-- МВ4 -->
-	<Sound>
-		<Name>Motor_Fan4</Name>
-		<Path>vent.wav</Path>
-		<InitVolume>50</InitVolume>
-		<MaxVolume>50</MaxVolume>
-		<InitPitch>0.0</InitPitch>
-		<Loop>1</Loop>
-		<PlayOnStart>0</PlayOnStart>
-	</Sound>
-
-	<!-- МВ5 -->
-	<Sound>
-		<Name>Motor_Fan5</Name>
-		<Path>vent.wav</Path>
-		<InitVolume>70</InitVolume>
-		<MaxVolume>70</MaxVolume>
-		<InitPitch>0.0</InitPitch>
-		<Loop>1</Loop>
-		<PlayOnStart>0</PlayOnStart>
-	</Sound>
-
-	<!-- МВ6 -->
-	<Sound>
-		<Name>Motor_Fan6</Name>
-		<Path>vent.wav</Path>
-		<InitVolume>80</InitVolume>
-		<MaxVolume>80</MaxVolume>
-		<InitPitch>0.0</InitPitch>
-		<Loop>1</Loop>
-		<PlayOnStart>0</PlayOnStart>
-	</Sound>
+	
 
 	<!-- Звуки работы мотор-компрессора -->	
 	<Sound>
