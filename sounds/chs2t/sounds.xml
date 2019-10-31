@@ -131,14 +131,44 @@
 		<Loop>1</Loop>
 		<PlayOnStart>0</PlayOnStart>
 	</Sound>
+
+	<Sound>
+		<Name>Motor_Fan1</Name>
+		<Path>vent.wav</Path>
+		<InitVolume>40</InitVolume>
+		<MaxVolume>40</MaxVolume>
+		<InitPitch>0.0</InitPitch>
+		<Loop>1</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<Sound>
+		<Name>Motor_Fan2</Name>
+		<Path>vent.wav</Path>
+		<InitVolume>20</InitVolume>
+		<MaxVolume>20</MaxVolume>
+		<InitPitch>0.0</InitPitch>
+		<Loop>1</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
 	
 
 	<!-- Звуки работы мотор-компрессора -->	
 	<Sound>
-		<Name>Motor_Compressor</Name>
+		<Name>Motor_Compressor1</Name>
 		<Path>compr.wav</Path>
 		<InitVolume>50</InitVolume>
 		<MaxVolume>50</MaxVolume>
+		<InitPitch>0.0</InitPitch>
+		<Loop>1</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<Sound>
+		<Name>Motor_Compressor2</Name>
+		<Path>compr.wav</Path>
+		<InitVolume>30</InitVolume>
+		<MaxVolume>30</MaxVolume>
 		<InitPitch>0.0</InitPitch>
 		<Loop>1</Loop>
 		<PlayOnStart>0</PlayOnStart>
