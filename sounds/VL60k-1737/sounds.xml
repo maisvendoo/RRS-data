@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+	
+	<!-- Озвучка тумблеров с фиксацией -->
+
+	<!-- Включение -->
+	<Sound>
+		<Name>K_Tumbler_On</Name>
+		<Path>k-tumbler-on.wav</Path>
+		<InitVolume>100</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>0</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<!-- Выключение -->
+	<Sound>
+		<Name>K_Tumbler_Off</Name>
+		<Path>k-tumbler-off.wav</Path>
+		<InitVolume>100</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>0</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<!-- Озвучка тумблеров с фиксацией -->
+
+	<!-- Включение -->
+	<Sound>
+		<Name>K_Tumbler_Nofixed_On</Name>
+		<Path>k-tumbler-nofixed-on.wav</Path>
+		<InitVolume>100</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>0</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<!-- Выключение -->
+	<Sound>
+		<Name>K_Tumbler_Nofixed_Off</Name>
+		<Path>k-tumbler-nofixed-off.wav</Path>
+		<InitVolume>100</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>0</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+
+	<!-- Включение ГВ -->
+	<Sound>
+		<Name>GV_On</Name>
+		<Path>gvon.wav</Path>
+		<InitVolume>100</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>0</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<!-- Выключение ГВ -->
+	<Sound>
+		<Name>GV_Off</Name>
+		<Path>gvoff.wav</Path>
+		<InitVolume>100</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>0</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+
+	<!-- Подъем токоприемника -->
+	<Sound>
+		<Name>Pantograph_Up</Name>
+		<Path>TPUp.wav</Path>
+		<InitVolume>100</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>0</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+
+	<!-- Опускание токоприемника -->
+	<Sound>
+		<Name>Pantograph_Down</Name>
+		<Path>TPDown.wav</Path>
+		<InitVolume>100</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>0</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+
+	<!-- Работа тягового трансформатора -->
+	<Sound>
+		<Name>Trac_Transformer</Name>
+		<Path>trans.wav</Path>
+		<InitVolume>0</InitVolume>
+		<MaxVolume>10</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>1</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<!-- Работа расщепителя фаз  -->
+	<Sound>
+		<Name>Phase_Splitter</Name>
+		<Path>fasan.wav</Path>
+		<InitVolume>30</InitVolume>
+		<MaxVolume>30</MaxVolume>
+		<InitPitch>0.0</InitPitch>
+		<Loop>1</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<!-- Звуки работы мотор-вертиляторов -->
+	
+	<!-- МВ1 -->
+	<Sound>
+		<Name>Motor_Fan1</Name>
+		<Path>vent.wav</Path>
+		<InitVolume>15</InitVolume>
+		<MaxVolume>15</MaxVolume>
+		<InitPitch>0.0</InitPitch>
+		<Loop>1</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<!-- МВ2 -->
+	<Sound>
+		<Name>Motor_Fan2</Name>
+		<Path>vent.wav</Path>
+		<InitVolume>20</InitVolume>
+		<MaxVolume>20</MaxVolume>
+		<InitPitch>0.0</InitPitch>
+		<Loop>1</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>		
+
+
+	<!-- МВ3 -->
+	<Sound>
+		<Name>Motor_Fan3</Name>
+		<Path>vent.wav</Path>
+		<InitVolume>40</InitVolume>
+		<MaxVolume>40</MaxVolume>
+		<InitPitch>0.0</InitPitch>
+		<Loop>1</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<!-- МВ4 -->
+	<Sound>
+		<Name>Motor_Fan4</Name>
+		<Path>vent.wav</Path>
+		<InitVolume>50</InitVolume>
+		<MaxVolume>50</MaxVolume>
+		<InitPitch>0.0</InitPitch>
+		<Loop>1</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<!-- МВ5 -->
+	<Sound>
+		<Name>Motor_Fan5</Name>
+		<Path>vent.wav</Path>
+		<InitVolume>70</InitVolume>
+		<MaxVolume>70</MaxVolume>
+		<InitPitch>0.0</InitPitch>
+		<Loop>1</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<!-- МВ6 -->
+	<Sound>
+		<Name>Motor_Fan6</Name>
+		<Path>vent.wav</Path>
+		<InitVolume>80</InitVolume>
+		<MaxVolume>80</MaxVolume>
+		<InitPitch>0.0</InitPitch>
+		<Loop>1</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<!-- Звуки работы мотор-компрессора -->	
+	<Sound>
+		<Name>Motor_Compressor</Name>
+		<Path>compr.wav</Path>
+		<InitVolume>50</InitVolume>
+		<MaxVolume>50</MaxVolume>
+		<InitPitch>0.0</InitPitch>
+		<Loop>1</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<!-- Щелчек рукоятки крана 395 -->
+	<Sound>
+		<Name>Kran_395_ruk</Name>
+		<Path>395-chelk.wav</Path>
+		<InitVolume>100</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>0</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<!-- Щелчек комбинированного крана -->
+	<Sound>
+		<Name>Komb_kran</Name>
+		<Path>komb-kran.wav</Path>
+		<InitVolume>100</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>0</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<!-- Щелчек комбинированного крана -->
+	<Sound>
+		<Name>UBT_367_ruk</Name>
+		<Path>ubt-367-ruk.wav</Path>
+		<InitVolume>100</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>0</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+
+	<!-- Серводвигатель ЭКГ -->
+	<Sound>
+		<Name>EKG_serv</Name>
+		<Path>serv.wav</Path>
+		<InitVolume>30</InitVolume>
+		<MaxVolume>30</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>0</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<!-- Тяговый двигатель -->
+	<Sound>
+		<Name>TED</Name>
+		<Path>ted_60-62.wav</Path>
+		<InitVolume>100</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>0</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+
+	<!-- Скоростемер -->
+	<Sound>
+		<Name>Skorostemer</Name>
+		<Path>skorostemer.wav</Path>
+		<InitVolume>0</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>1</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<!-- Свисток -->
+	<Sound>
+		<Name>Svistok</Name>
+		<Path>VL60-svistok.wav</Path>
+		<InitVolume>0</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>1</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<!-- Свисток -->
+	<Sound>
+		<Name>Tifon</Name>
+		<Path>VL60-tifon.wav</Path>
+		<InitVolume>0</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>1</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+</Config>
