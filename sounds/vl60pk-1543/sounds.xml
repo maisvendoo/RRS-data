@@ -309,4 +309,24 @@
 		<PlayOnStart>1</PlayOnStart>
 	</Sound>
 
+	<Sound>
+		<Name>EPT_On</Name>
+		<Path>tumbler.wav</Path>
+		<InitVolume>100</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>0</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
+	<Sound>
+		<Name>EPT_Off</Name>
+		<Path>tumbler.wav</Path>
+		<InitVolume>100</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>0</Loop>
+		<PlayOnStart>0</PlayOnStart>
+	</Sound>
+
 </Config>
