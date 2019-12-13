@@ -2,7 +2,7 @@
 <Config>
 	<MaterialAnimation>
 		<SignalID>58</SignalID>
-		<Duration>3.0</Duration>
+		<Duration>10.0</Duration>
 		<EmissionColor>1.0 0.0 0.0</EmissionColor>		
 	</MaterialAnimation>
 

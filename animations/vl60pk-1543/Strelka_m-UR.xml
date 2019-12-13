@@ -4,7 +4,7 @@
 		<SignalID>22</SignalID>
 		<Duration>10.0</Duration>
 		<Precision>0.01</Precision>
-		<Axis>0.0 0.9417 -0.3364</Axis>
+		<Axis>0.0 0.1 0.0</Axis>
 	</AnalogRotation>
 
 	<KeyPoint>

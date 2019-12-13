@@ -2,7 +2,7 @@
 <Config>
 	<MaterialAnimation>
 		<SignalID>53</SignalID>
-		<Duration>1.0</Duration>		
+		<Duration>10.0</Duration>		
 	</MaterialAnimation>
 
 	<KeyPoint>

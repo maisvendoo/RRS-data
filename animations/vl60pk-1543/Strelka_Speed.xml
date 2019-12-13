@@ -7,7 +7,7 @@
 		<InitAngle>0</InitAngle>
 		<Duration>10.0</Duration>
 		<Precision>0.01</Precision>
-		<Axis>0.4233 0.906 0.0</Axis>
+		<Axis>0.0 0.1 0.0</Axis>
 	</AnalogRotation>
 
 	<KeyPoint>

@@ -310,6 +310,36 @@
 	</Sound>
 
 	<Sound>
+		<Name>KRM395_1</Name>
+		<Path>395_1.wav</Path>
+		<InitVolume>0</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>1</Loop>
+		<PlayOnStart>1</PlayOnStart>
+	</Sound>
+
+	<Sound>
+		<Name>KRM395_2</Name>
+		<Path>395_2.wav</Path>
+		<InitVolume>0</InitVolume>
+		<MaxVolume>25</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>1</Loop>
+		<PlayOnStart>1</PlayOnStart>
+	</Sound>
+
+	<Sound>
+		<Name>KRM395_5</Name>
+		<Path>395_5.wav</Path>
+		<InitVolume>0</InitVolume>
+		<MaxVolume>100</MaxVolume>
+		<InitPitch>1.0</InitPitch>
+		<Loop>1</Loop>
+		<PlayOnStart>1</PlayOnStart>
+	</Sound>
+
+	<Sound>
 		<Name>EPT_On</Name>
 		<Path>tumbler.wav</Path>
 		<InitVolume>100</InitVolume>
