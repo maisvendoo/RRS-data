@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+	<AnalogRotation>
+		<SignalID>2</SignalID>
+		<Duration>10.0</Duration>
+		<Axis>-1.0 0.0 0.0</Axis>
+	</AnalogRotation>
+
+	<KeyPoint>
+		<Param>0.0</Param>
+		<Value>3</Value>
+	</KeyPoint>
+	
+	<KeyPoint>
+		<Param>0.25</Param>
+		<Value>11</Value>
+	</KeyPoint>
+
+	<KeyPoint>
+		<Param>0.5</Param>
+		<Value>34.0</Value>
+	</KeyPoint>
+	
+	<KeyPoint>
+		<Param>0.75</Param>
+		<Value>58.0</Value>
+	</KeyPoint>
+
+	<KeyPoint>
+		<Param>1.0</Param>
+		<Value>85.0</Value>
+	</KeyPoint>
+
+</Config>
