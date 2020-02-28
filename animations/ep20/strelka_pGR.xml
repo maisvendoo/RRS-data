@@ -10,10 +10,15 @@
 		<Param>0.0</Param>
 		<Value>0.0</Value>
 	</KeyPoint>
+
+	<KeyPoint>
+		<Param>0.1</Param>
+		<Value>30.0</Value>
+	</KeyPoint>
 	
 	<KeyPoint>
 		<Param>1.0</Param>
-		<Value>268.0</Value>
+		<Value>300.0</Value>
 	</KeyPoint>
 
 
